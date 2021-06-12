@@ -1,0 +1,1 @@
+This is just a sample doc on how to use JSDoc.
